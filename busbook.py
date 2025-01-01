@@ -9,9 +9,9 @@ class Bus:
         self.fare = fare
 
 class User:
-    def __init__(self, username, passwrd):
+    def __init__(self, username, password):
         self.username = username
-        self.password = passwrd
+        self.password = password
 
 
 def display_main_menu():
