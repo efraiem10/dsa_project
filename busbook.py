@@ -1,4 +1,3 @@
-# https://www.geeksforgeeks.org/bus-reservation-system-in-c/
 class Bus:
     def __init__(self, bus_number, source, destination, total_seats, available_seats, fare):
         self.bus_number = bus_number
